@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "adil",
+      "address": "3 feet road",
+      "phoneNumber": "6305672528",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "abdullah",
+      "address": "4  town",
+      "phoneNumber": "6305672528",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "nandu",
+      "address": " lesly road",
+      "phoneNumber": "6305672528",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "kumar",
+      "address": "333 miltown ",
+      "phoneNumber": "6305672528",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymons",
+      "address": "99 blue acres",
+      "phoneNumber": "3231-962-7516",
+      "email": "raymon.edwards@email.com"
+    }
+  ]
